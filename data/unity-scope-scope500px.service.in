@@ -1,0 +1,3 @@
+[D-BUS Service]
+Name=com.canonical.Unity.Scope.Graphics.Scope500px
+Exec=

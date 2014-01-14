@@ -1,0 +1,18 @@
+[Scope]
+DBusName=com.canonical.Unity.Scope.Graphics.Scope500px
+DBusPath=/com/canonical/unity/scope/graphics/scope500px
+Icon=
+QueryBinary=
+Keywords=scope500px;
+RequiredMetadata=
+OptionalMetadata=author[s];creation_date[s];
+Loader=
+RemoteContent=true
+Type=graphics
+Name=scope500px
+Description=Find 500px items
+SearchHint=Search 500px
+CategoryIcon=/usr/share/icons/unity-icon-theme/places/svg/service-scope500px.svg
+
+[Desktop Entry]
+X-Ubuntu-Gettext-Domain=unity-scope-scope500px
